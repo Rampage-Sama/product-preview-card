@@ -181,7 +181,9 @@ body {
 
 /* atribution */
 .attribution {
-    padding-top: 2rem;
+  padding-top: 1rem;
+  display: inline-flex;
+  justify-content: center;
 }
 
 .attribution a {
