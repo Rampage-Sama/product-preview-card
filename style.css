@@ -126,7 +126,7 @@ body {
 .product__content {
   display: grid;
   gap: var(--content-spacing);
-  padding: var(--content-spacing);
+  padding: var(--content-padding);
 }
 
 /* product category */
